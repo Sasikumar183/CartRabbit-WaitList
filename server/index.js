@@ -136,7 +136,7 @@ app.post('/register', async (req, res) => {
         if (referralcode) {
             const referringUser = await UserModel.findOne({ referralcode });
             if (referringUser) {
-                referringUser.rank -=50;
+                referringUser.rank -=1;
                 if (referringUser.rank <= 0) {
                     referringUser.rank = 1;
                 }
