@@ -38,3 +38,31 @@ CartRabbit WaitList is a MERN stack application designed to manage a waitlist fo
 6. **Start the frontend application:**
 
        npm run dev
+
+
+### Working
+
+1. **User Side:**
+
+   ->Go to *http://localhost:5173/* and log in using the following credentials:
+
+      Email: sasikumar.n2021it@gmail.com
+   
+      Password: 1234
+
+   ->Once logged in, you can view the rank and referral code. Copy the referral code.
+
+   ->Log out and return to the login screen. Click 'Signup' to register a new user. Use a dummy email and the previously copied referral code.
+
+   ->After registration, log back in with the initial credentials to see the updated rank.
+
+
+2.**Admin Side:**
+
+   ->Access the admin interface at *http://localhost:5173/admin* using the following credentials:
+   
+       Email: admin123@gmail.com
+   
+       Password: admin@123
+
+   ->On the admin home page, you can view the user list. Use the 'Add User' button to add a new user, and use the edit and delete icons to manage      existing users.
