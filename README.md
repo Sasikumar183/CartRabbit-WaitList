@@ -19,9 +19,9 @@ CartRabbit WaitList is a MERN stack application designed to manage a waitlist fo
     
        Navigate to the server folder and install the dependencies:
 
-       cd server
-
-       npm install
+        cd server
+ 
+        npm install
 
 3. **Start the server:**
 
