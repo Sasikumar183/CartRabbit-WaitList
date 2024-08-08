@@ -11,9 +11,9 @@ CartRabbit WaitList is a MERN stack application designed to manage a waitlist fo
 
  1. **Clone the Repository:**
     
-       git clone https://github.com/Sasikumar183/CartRabbit-WaitList.git
-
-       cd CartRabbit-WaitList
+         git clone https://github.com/Sasikumar183/CartRabbit-WaitList.git
+  
+         cd CartRabbit-WaitList
     
  2. **Setup the Server:**
     
